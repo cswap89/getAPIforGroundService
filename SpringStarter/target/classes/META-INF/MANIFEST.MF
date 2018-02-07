@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringStarter
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wp864e
+Implementation-Vendor-Id: SpringStarter
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/SpringStarte
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
